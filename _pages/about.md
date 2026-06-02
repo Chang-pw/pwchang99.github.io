@@ -106,10 +106,17 @@ Linhao Jin, Jingjing Fan, Fu Du, **Ming Zhan**
 - *2022.10* Postgraduate First-Class Scholarship (Top 10%)
 
 # 📖 Educations
-- *2021.09 - 2024.07*, Master of Engineering in Control Engineering, North China University of Technology, Beijing, China
-  - Supervised by [Dr. Jingjing Fan](https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=qq2scN_gHl_@_byvOok@JA==)
-- *2017.09 - 2021.07*, Bachelor of Engineering in Software Engineering, Zhuhai College of Jilin University, Zhuhai, China
-  - Supervised by [Prof. Yanchun Liang](https://ccst.jlu.edu.cn/info/1196/17215.htm)
+<!-- - *2021.09 - 2024.07*, Master of Engineering in Control Engineering, North China University of Technology, Beijing, China -->
+  <!-- - Supervised by [Dr. Jingjing Fan](https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=qq2scN_gHl_@_byvOok@JA==) -->
+<!-- - *2017.09 - 2021.07*, Bachelor of Engineering in Software Engineering, Zhuhai College of Jilin University, Zhuhai, China -->
+  <!-- - Supervised by [Prof. Yanchun Liang](https://ccst.jlu.edu.cn/info/1196/17215.htm) -->
+
+- *2024.09 - 2027.06*, Master of Science in Statistics, [School of Data Science](https://sds.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/), Shanghai, China
+  - Supervised by [Prof. Jiaqing Liang](https://kw.fudan.edu.cn/people/liangjiaqing/)
+- *2020.09 - 2024.06*, Bachelor of Economics in Public Finance and Taxation, [School of Economics](https://soe.xmu.edu.cn/english/), [Xiamen University](https://en.xmu.edu.cn/), Xiamen, China
+  - Xiamen University is, in my heart, the most beautiful university, although I did not come from a traditional computer science background :)
+
+
 
 <!--
 # 💬 Invited Talks
