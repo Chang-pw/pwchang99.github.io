@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ming Zhan"
-description              : "First-year PhD student at University of Florida"
-repository               : "MingmZhan/MingmZhan.github.io"
+title                    : "Powei Chang"
+description              : "Graduate student at the School of Data Science, Fudan University"
+repository               : "Chang-pw/pwchang99.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ming Zhan"
+  name             : "Powei Chang"
   avatar           : "images/profile.png"
-  bio              : "University of Florida"
-  location         : "FL, USA"
+  bio              : "School of Data Science, Fudan University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "zhanming1208@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=9syy8R0AAAAJ&hl=zh-CN&authuser=1"
+  email            : "changpw0909@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MingmZhan"
+  github           : "Chang-pw"
   google_plus      :
   keybase          :
   instagram        :
