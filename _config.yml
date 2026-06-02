@@ -9,6 +9,8 @@
 title                    : "Powei Chang"
 description              : "just an ordinary graduate student"
 repository               : "Chang-pw/pwchang99.github.io"
+url                      : "https://chang-pw.github.io"
+baseurl                  : "/pwchang99.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
