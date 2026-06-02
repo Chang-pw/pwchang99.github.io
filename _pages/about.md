@@ -51,19 +51,19 @@ Besides research, I live with eight cats at home. Two of them are my own cats: P
   *ACL 2026 Oral*
 
 - [Instructions are all you need: Self-supervised Reinforcement Learning for Instruction Following](https://arxiv.org/abs/2510.14420)  
-  Qingyu Ren<sup>*</sup>, Qianyu He<sup>*</sup>, **Powei Chang**, Jie Zeng, Zeye Sun, Fei Yu, Jiaqing Liang, Yanghua Xiao  
+  Qingyu Ren<sup>&#42;</sup>, Qianyu He<sup>&#42;</sup>, **Powei Chang**, Jie Zeng, Zeye Sun, Fei Yu, Jiaqing Liang, Yanghua Xiao  
   *ACL 2026*
 
 - [ChemAmp: Amplified Chemistry Tools via Composable Agents](https://arxiv.org/abs/2505.21569)  
-  Zhucong Li<sup>*</sup>, **Powei Chang**<sup>*</sup>, Jin Xiao, Zhijian Zhou, Qianyu He, Jiaqing Liang, Fenglei Cao, Xu Yinghui, Yuan Qi  
+  Zhucong Li<sup>&#42;</sup>, **Powei Chang**<sup>&#42;</sup>, Jin Xiao, Zhijian Zhou, Qianyu He, Jiaqing Liang, Fenglei Cao, Xu Yinghui, Yuan Qi  
   *ACL 2026 Findings*
 
 - [GeoRK2: Geometry-Guided Runge-Kutta Integration for Diffusion Transformer Acceleration](https://openaccess.thecvf.com/content/CVPR2026/html/Sun_GeoRK2_Geometry-Guided_Runge-Kutta_Integration_for_Diffusion_Transformer_Acceleration_CVPR_2026_paper.html)  
-  Chaoqun Sun<sup>*</sup>, Zongjing Fu<sup>*</sup>, **Powei Chang**, Jinpeng Zhang, Jianxiang Xiang, Yukang Gao, Chenyu Wang  
+  Chaoqun Sun<sup>&#42;</sup>, Zongjing Fu<sup>&#42;</sup>, **Powei Chang**, Jinpeng Zhang, Jianxiang Xiang, Yukang Gao, Chenyu Wang  
   *CVPR 2026 Highlight*
 
 - [SPICE: Submodular Penalized Information-Conflict Selection for Efficient Large Language Model Training](https://arxiv.org/abs/2601.23155)  
-  **Powei Chang**<sup>*</sup>, Jinpeng Zhang<sup>*</sup>, Bowen Chen, Chenyu Wang, Chenlu Guo, Yixing Zhang, Yukang Gao, JianXiang Xiang, Yue Gao, Chaoqun Sun, Yiyi Chen, Dongying Kong  
+  **Powei Chang**<sup>&#42;</sup>, Jinpeng Zhang<sup>&#42;</sup>, Bowen Chen, Chenyu Wang, Chenlu Guo, Yixing Zhang, Yukang Gao, JianXiang Xiang, Yue Gao, Chaoqun Sun, Yiyi Chen, Dongying Kong  
   *ICLR 2026*
 
 <!-- # 🎖 Honors and Awards
