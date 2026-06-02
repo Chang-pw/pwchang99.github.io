@@ -71,9 +71,10 @@ Besides research, I live with eight cats at home. Two of them are my own cats: P
   *ICLR 2026*
 
 - [QUILL: Quotation Generation Enhancement of Large Language Models](https://arxiv.org/pdf/2411.03675)
-  Jin Xiao, **Powei Chang**, Qianyu He, Jiaqing Liang, Feng Wei, Jinglei Chen, Zujie Liang, Deqing Yang, Yanghua Xiao
-  
-  *arXiv preprint*
+
+Jin Xiao, **Powei Chang**, Qianyu He, Jiaqing Liang, Feng Wei, Jinglei Chen, Zujie Liang, Deqing Yang, Yanghua Xiao
+
+*arXiv preprint*
 
 <!-- # 🎖 Honors and Awards
 - *2024.06* Beijing Outstanding Graduate (Top 1%)
