@@ -70,8 +70,8 @@ Besides research, I live with eight cats at home. Two of them are my own cats: P
   **Powei Chang**<sup>&#42;</sup>, Jinpeng Zhang<sup>&#42;</sup>, Bowen Chen, Chenyu Wang, Chenlu Guo, Yixing Zhang, Yukang Gao, JianXiang Xiang, Yue Gao, Chaoqun Sun, Yiyi Chen, Dongying Kong  
   *ICLR 2026*
 
-- [QUILL: Quotation Generation Enhancement of Large Language Models](https://arxiv.org/pdf/2411.03675)
-  Jin Xiao, **Powei Chang**, Qianyu He, Jiaqing Liang, Feng Wei, Jinglei Chen, Zujie Liang, Deqing Yang, Yanghua Xiao
+- [QUILL: Quotation Generation Enhancement of Large Language Models](https://arxiv.org/pdf/2411.03675)  
+  Jin Xiao, **Powei Chang**, Qianyu He, Jiaqing Liang, Feng Wei, Jinglei Chen, Zujie Liang, Deqing Yang, Yanghua Xiao  
   *arXiv preprint*
 
 <!-- # 🎖 Honors and Awards
