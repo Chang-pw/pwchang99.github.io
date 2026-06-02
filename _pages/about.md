@@ -33,12 +33,13 @@ Besides research, I live with eight cats at home. Two of them are my own cats: P
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
 # 🔥 News
-- *2025.07*: &nbsp;New Paper on Fine-Tuning Vision-Language Models for Visual Navigation Assistance Accepted by International Conference on Machine Learning (ICML) Workshop on NewInML 2025.
-- *2024.02*: &nbsp;New Paper on Trajectory Prediction of Vehicle Lane Change for Autonomous Driving Based on Inverse Reinforcement Learning Accepted by ICTETS 2023.
-- *2023.12*: &nbsp;New Paper on Fuzzy Control of Two-stage ISD Suspension Based on Variable Inerter Accepted by ICCIR 2023.
-- *2023.10*: &nbsp;🎉🎉New Journal Paper on Two-stage semi-active ISD suspension based on improved fuzzy neural network PID control Accepted by Sensors 2023.
-- *2023.08*: &nbsp;🎉🎉New Journal Paper on Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient Accepted by IEEE Access 2023.
-- *2022.02*: &nbsp;New Paper on Systematic Review of DDPG Algorithm-Based Path Planning for Intelligent Vehicles Accepted by Auto Know (In Chinese) 2022.
+- *2026.04*: &nbsp; Our paper **What Makes an Ideal Quote? Recommending “Unexpected yet Rational” Quotations via Novelty** was accepted to **ACL 2026 Oral**.
+- *2026.04*: &nbsp; Our paper **Instructions are All You Need: Self-supervised Reinforcement Learning for Instruction Following** was accepted to **ACL 2026**.
+- *2026.04*: &nbsp; Our paper **ChemAmp: Amplified Chemistry Tools via Composable Agents** was accepted to **ACL 2026 Findings**.
+- *2026.02*: &nbsp; Our paper **GeoRK2: Geometry-Guided Runge–Kutta Integration for Diffusion Transformer Acceleration** was accepted to **CVPR 2026 Highlight**.
+- *2026.01*: &nbsp; Our paper **SPICE: Submodular Penalized Information-Conflict Selection for Efficient Large Language Model Training** was accepted to **ICLR 2026**.
+- *2025.08*: &nbsp;🎉🎉 We welcomed **Pidan**, the most mischievous Siamese cat, into our home.
+- *2024.12*: &nbsp;🎉🎉 We adopted **Christmas**, the most handsome Chinese Li Hua cat.
 
 # 📝 Publications 
 - 🎓During My Master's Research Program
