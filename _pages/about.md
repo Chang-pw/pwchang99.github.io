@@ -27,7 +27,7 @@ My research interests primarily focus on large language models (LLM), including 
 Besides research, I live with eight cats at home. Two of them are my own cats: Pidan, a Siamese cat, and Christmas, a Chinese Li Hua cat. I will also share occasional updates and news about my cats here.
 
 <p align="center">
-  <img src="../images/cats.png" alt="Eight cats at home" style="max-width: 100%; height: auto;">
+  <img src="{{ '/images/cats.png' | relative_url }}" alt="Eight cats at home" style="max-width: 100%; height: auto;">
 </p>
 
 <!-- You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/CV_Ming.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:zhanming1208@gmail.com). -->
