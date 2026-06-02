@@ -121,5 +121,5 @@ Besides research, I live with eight cats at home. Two of them are my own cats: P
 ------
 
 <p align="center">
-  <i>If you need anything, please contact my cat butlers: @Pidan and @Chritmas.</i>
+  <i>If you need anything, please contact my cat butlers: @Pidan and @Christmas.</i>
 </p>
