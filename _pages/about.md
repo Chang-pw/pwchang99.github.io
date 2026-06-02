@@ -18,19 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Welcome! 
-I am now the first-year PhD student at [University of Florida](https://www.ufl.edu/), [ECE](https://www.ece.ufl.edu/). I am under the supervision of [Prof. Mingyue Ji](https://my.eng.utah.edu/~u6007330/) of EdgeAI Lab from Department of Electrical and Computer Engineering, University of Florida.
 
-<!--
-From 2023 to 2024, I worked at [DouBao](https://www.doubao.com/chat/)![DouBao](../images/tiktok.png) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
--->
+I am currently a graduate student at the [School of Data Science](https://sds.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/), and a member of the [Knowledge Factory Lab](https://datascience.fudan.edu.cn/80/d8/c13525a688344/page.htm).
 
-From 2023 to 2024, I worked at [ByteDance - DouBao](https://www.doubao.com/chat/) as a daily intern in Beijing, undertaking data analytics cohort tasks under the guidance of Mr. Zhaojian Li.
 
-In my first two years before joining ByteDance, I conducted research work on the Graduate Thesis at [Workstation of Mao Ming, Academician of Chinese Academy of Sciences](https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E8%A3%85%E5%A4%87%E4%BA%A7%E4%B8%9A%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83/61692750), under the supervision of [Dr. Jingjing Fan](https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=qq2scN_gHl_@_byvOok@JA==).
+My research interests primarily focus on large language models, including but not limited to reinforcement learning, data selection, and agent-based systems. I have contributed to several research papers in these areas. **I hope to continue exploring research with curiosity, dedication, and an open mind.**
 
-My research interest includes Machine Learning and non-convex optimization. **Currently, I am deeply involved in specific projects related to Federated Learning and Optimization perspectives for my PhD research.**
 
-You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/CV_Ming.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:zhanming1208@gmail.com).
+<!-- You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/CV_Ming.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:zhanming1208@gmail.com). -->
 
 <!--I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
