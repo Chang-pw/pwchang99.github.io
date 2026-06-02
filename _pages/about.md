@@ -40,7 +40,8 @@ Besides research, I live with eight cats at home. Two of them are my own cats: P
 - *2026.01*: &nbsp; Our paper entitled **"SPICE: Submodular Penalized Information-Conflict Selection for Efficient Large Language Model Training"** was accepted to **ICLR 2026**.
 - *2025.08*: &nbsp;🎉🎉 We welcomed **Pidan**, the most mischievous Siamese cat, into our home.
 - *2024.12*: &nbsp;🎉🎉 We adopted **Christmas**, the most handsome Chinese Li Hua cat.
-
+- *2024.09*: &nbsp;I started my graduate studies at **Fudan University**.
+- *2020.09*: &nbsp;I started my undergraduate studies at **Xiamen University**.
 
 # 📝 Publications 
 - 🎓During My Master's Research Program
