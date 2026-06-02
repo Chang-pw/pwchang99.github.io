@@ -22,8 +22,9 @@ redirect_from:
 I am currently a graduate student at the [School of Data Science](https://sds.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/), and a member of the [Knowledge Works Research Lab](https://kw.fudan.edu.cn/).
 
 
-My research interests primarily focus on large language models, including but not limited to reinforcement learning, data selection, and agent-based systems. I have contributed to several research papers in these areas. **I hope to continue exploring research with curiosity, dedication, and an open mind.**
+My research interests primarily focus on large language models (LLM), including but not limited to reinforcement learning, data selection, post-training and agent-based systems. I have contributed to several research papers in these areas. **I hope to continue exploring research with curiosity, dedication, and an open mind.**
 
+Besides research, I live with eight cats at home. Two of them are my own cats: Pidan, a Siamese cat, and Christmas, a Chinese Li Hua cat. I will also share occasional updates and news about my cats here.
 
 <!-- You can find my CV here: [Ming Zhan's Curriculum Vitae](../assets/CV_Ming.pdf). If you are interested in my work, please feel free to drop me an [email](mailto:zhanming1208@gmail.com). -->
 
