@@ -33,13 +33,14 @@ Besides research, I live with eight cats at home. Two of them are my own cats: P
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
 # 🔥 News
-- *2026.04*: &nbsp; Our paper **What Makes an Ideal Quote? Recommending “Unexpected yet Rational” Quotations via Novelty** was accepted to **ACL 2026 Oral**.
-- *2026.04*: &nbsp; Our paper **Instructions are All You Need: Self-supervised Reinforcement Learning for Instruction Following** was accepted to **ACL 2026**.
-- *2026.04*: &nbsp; Our paper **ChemAmp: Amplified Chemistry Tools via Composable Agents** was accepted to **ACL 2026 Findings**.
-- *2026.02*: &nbsp; Our paper **GeoRK2: Geometry-Guided Runge–Kutta Integration for Diffusion Transformer Acceleration** was accepted to **CVPR 2026 Highlight**.
-- *2026.01*: &nbsp; Our paper **SPICE: Submodular Penalized Information-Conflict Selection for Efficient Large Language Model Training** was accepted to **ICLR 2026**.
+- *2026.04*: &nbsp; Our paper entitled **"What Makes an Ideal Quote? Recommending “Unexpected yet Rational” Quotations via Novelty"** was accepted to **ACL 2026 Oral**.
+- *2026.04*: &nbsp; Our paper entitled **"Instructions are All You Need: Self-supervised Reinforcement Learning for Instruction Following"** was accepted to **ACL 2026**.
+- *2026.04*: &nbsp; Our paper entitled **"ChemAmp: Amplified Chemistry Tools via Composable Agents"** was accepted to **ACL 2026 Findings**.
+- *2026.02*: &nbsp; Our paper entitled **"GeoRK2: Geometry-Guided Runge–Kutta Integration for Diffusion Transformer Acceleration"** was accepted to **CVPR 2026 Highlight**.
+- *2026.01*: &nbsp; Our paper entitled **"SPICE: Submodular Penalized Information-Conflict Selection for Efficient Large Language Model Training"** was accepted to **ICLR 2026**.
 - *2025.08*: &nbsp;🎉🎉 We welcomed **Pidan**, the most mischievous Siamese cat, into our home.
 - *2024.12*: &nbsp;🎉🎉 We adopted **Christmas**, the most handsome Chinese Li Hua cat.
+
 
 # 📝 Publications 
 - 🎓During My Master's Research Program
