@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome! 
 
-I am currently a graduate student at the [School of Data Science](https://sds.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/), and a member of the [Knowledge Factory Lab](https://datascience.fudan.edu.cn/80/d8/c13525a688344/page.htm).
+I am currently a graduate student at the [School of Data Science](https://sds.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/en/), and a member of the [Knowledge Factory Lab](https://kw.fudan.edu.cn/).
 
 
 My research interests primarily focus on large language models, including but not limited to reinforcement learning, data selection, and agent-based systems. I have contributed to several research papers in these areas. **I hope to continue exploring research with curiosity, dedication, and an open mind.**
