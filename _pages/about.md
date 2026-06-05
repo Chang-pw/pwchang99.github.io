@@ -70,6 +70,10 @@ Besides research, I live with eight cats at home. Two of them are my own cats: P
   **Powei Chang**<sup>&#42;</sup>, Jinpeng Zhang<sup>&#42;</sup>, Bowen Chen, Chenyu Wang, Chenlu Guo, Yixing Zhang, Yukang Gao, JianXiang Xiang, Yue Gao, Chaoqun Sun, Yiyi Chen, Dongying Kong  
   *ICLR 2026*
 
+- [SALT: When More Rollouts Don't Help in Group-Based Policy Optimization and How to Make Them Matter](https://arxiv.org/abs/2606.05800)  
+  **Powei Chang**<sup>&#42;</sup>, Jinpeng Zhang<sup>&#42;</sup>, Chaoqun Sun, MiniWell Tsao, Lianrui Li, Jianxiang Xiang, Chenyu Wang, Yukang Gao, Dongying Kong  
+  *arXiv preprint*
+
 - [QUILL: Quotation Generation Enhancement of Large Language Models](https://arxiv.org/pdf/2411.03675)  
   Jin Xiao, **Powei Chang**, Qianyu He, Jiaqing Liang, Feng Wei, Jinglei Chen, Zujie Liang, Deqing Yang, Yanghua Xiao  
   *arXiv preprint*
@@ -127,3 +131,4 @@ Besides research, I live with eight cats at home. Two of them are my own cats: P
 <p align="center">
   <i>If you need anything, please contact my cat butlers: @Pidan and @Christmas.</i>
 </p>
+
