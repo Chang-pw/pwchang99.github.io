@@ -37,6 +37,7 @@ Besides research, I live with eight cats at home. Two of them are my own cats: P
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
 # 🔥 News
+- *2026.07*: &nbsp; Our paper entitled **"PIQUE: Planning and Invoking Questions via Unified Exploration"** was accepted to **ACM MM 2026**.
 - *2026.04*: &nbsp; Our paper entitled **"What Makes an Ideal Quote? Recommending “Unexpected yet Rational” Quotations via Novelty"** was accepted to **ACL 2026 Oral**.
 - *2026.04*: &nbsp; Our paper entitled **"Instructions are All You Need: Self-supervised Reinforcement Learning for Instruction Following"** was accepted to **ACL 2026**.
 - *2026.04*: &nbsp; Our paper entitled **"ChemAmp: Amplified Chemistry Tools via Composable Agents"** was accepted to **ACL 2026 Findings**.
