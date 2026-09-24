@@ -37,6 +37,7 @@ Besides research, I live with eight cats at home. Two of them are my own cats: P
 <!--插入图片语法为：![Alt](../images/tiktok.png width=200 height=100)-->
 
 # 🔥 News
+- *2026.09*: &nbsp; Our paper entitled **"SALT: When More Rollouts Don't Help in Group-Based Policy Optimization and How to Make Them Matter"** was accepted to **NIPS 2026**.
 - *2026.07*: &nbsp; Our paper entitled **"PIQUE: Planning and Invoking Questions via Unified Exploration"** was accepted to **ACM MM 2026**.
 - *2026.04*: &nbsp; Our paper entitled **"What Makes an Ideal Quote? Recommending “Unexpected yet Rational” Quotations via Novelty"** was accepted to **ACL 2026 Oral**.
 - *2026.04*: &nbsp; Our paper entitled **"Instructions are All You Need: Self-supervised Reinforcement Learning for Instruction Following"** was accepted to **ACL 2026**.
@@ -73,7 +74,7 @@ Besides research, I live with eight cats at home. Two of them are my own cats: P
 
 - [SALT: When More Rollouts Don't Help in Group-Based Policy Optimization and How to Make Them Matter](https://arxiv.org/abs/2606.05800)  
   **Powei Chang**<sup>&#42;</sup>, Jinpeng Zhang<sup>&#42;</sup>, Chaoqun Sun, MiniWell Tsao, Lianrui Li, Jianxiang Xiang, Chenyu Wang, Yukang Gao, Dongying Kong  
-  *arXiv preprint*
+  *NIPS 2026*
 
 - [QUILL: Quotation Generation Enhancement of Large Language Models](https://arxiv.org/pdf/2411.03675)  
   Jin Xiao, **Powei Chang**, Qianyu He, Jiaqing Liang, Feng Wei, Jinglei Chen, Zujie Liang, Deqing Yang, Yanghua Xiao  
