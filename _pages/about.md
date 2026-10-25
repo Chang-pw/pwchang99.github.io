@@ -76,6 +76,10 @@ Besides research, I live with eight cats at home. Two of them are my own cats: P
   **Powei Chang**<sup>&#42;</sup>, Jinpeng Zhang<sup>&#42;</sup>, Chaoqun Sun, MiniWell Tsao, Lianrui Li, Jianxiang Xiang, Chenyu Wang, Yukang Gao, Dongying Kong  
   *NIPS 2026*
 
+- PIQUE: Planning and Invoking Questions via Unified Exploration
+  Lianrui Li, Bowen Chen, Jinpeng Zhang, **Powei Chang**, Chaoqun Sun, MiniWell Tsao, Yue Gao, Yixing Zhang, Ruiwen Kang, Yifeng Ding, Yiyi Chen, Yu Zhao, Dongying Kong
+  *ACM MM 2026*
+
 - [QUILL: Quotation Generation Enhancement of Large Language Models](https://arxiv.org/pdf/2411.03675)  
   Jin Xiao, **Powei Chang**, Qianyu He, Jiaqing Liang, Feng Wei, Jinglei Chen, Zujie Liang, Deqing Yang, Yanghua Xiao  
   *arXiv preprint*
